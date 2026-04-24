@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Yifo Launcher">
+  <rect x="3" y="3" width="42" height="42" rx="13" fill="#f8fafc" stroke="#d8dee8" stroke-width="1.2"/>
+  <path d="M13 21C10 21 8 23.2 8 26.2C8 29.2 10.2 31.4 13.2 31.4H16.2L19.5 34.8L18.7 31.4H21.5" fill="none" stroke="#050505" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 31.2H35.5C38.8 31.2 41.2 28.7 41.2 25.5C41.2 22.2 38.8 19.8 35.5 19.8H33.6" fill="none" stroke="#050505" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15 14H20C22.2 14 22.7 16.2 24.8 16.2H36.2C38.4 16.2 39.7 17.6 39.7 19.8V25" fill="none" stroke="#050505" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 19.2L24 26.5H29.1L36.6 19.2H31.2C28.4 19.2 27.4 20.1 25.8 22L24 24.1L19.1 19.2H17Z" fill="#050505"/>
+  <path d="M24.4 26.5V36.5L29.4 32V26.5H24.4Z" fill="#050505"/>
+  <path d="M29.3 29.4H34.2L36.4 26.4H32.1C30.3 26.4 29.6 27.4 29.3 29.4Z" fill="#050505"/>
+  <circle cx="16.4" cy="14" r="1.5" fill="#050505"/>
+  <circle cx="20.8" cy="14" r="1.5" fill="#050505"/>
+  <path d="M12.4 28L14 22.8L15.8 28M13 26.2H15.2" fill="none" stroke="#050505" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M35.8 24.3H42M38.7 22V24.3M37.2 24.4C38 26.5 39.4 27.8 41.4 28.8M40.9 24.4C40.2 26.5 38.7 27.8 36.8 28.8" fill="none" stroke="#050505" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

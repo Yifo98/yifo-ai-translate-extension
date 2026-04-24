@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Yifo AI Translate">
+  <defs>
+    <linearGradient id="tile" x1="16" y1="8" x2="112" y2="122" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef2f7"/>
+    </linearGradient>
+    <filter id="shadow" x="-18" y="-18" width="164" height="164" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#0f172a" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#tile)" filter="url(#shadow)"/>
+  <rect x="8.5" y="8.5" width="111" height="111" rx="27.5" fill="none" stroke="#d5dbe5"/>
+  <path d="M32 54C24 54 18 60 18 68C18 76 24 82 32 82H39L48 91L46 82H52" fill="none" stroke="#050505" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76 82H96C105 82 112 75 112 66C112 57 105 50 96 50H91" fill="none" stroke="#050505" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M37 36H49C55 36 56 42 62 42H96C102 42 106 46 106 52V67" fill="none" stroke="#050505" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 50L62 70H76L96 50H82C75 50 72 52 68 57L62 64L49 50H43Z" fill="#050505"/>
+  <path d="M64 70V96L78 84V70H64Z" fill="#050505"/>
+  <path d="M77 78H91L97 70H85C80 70 78 73 77 78Z" fill="#050505"/>
+  <circle cx="40" cy="36" r="4.2" fill="#050505"/>
+  <circle cx="52" cy="36" r="4.2" fill="#050505"/>
+  <path d="M31 73L36 58L41 73M33 68H39" fill="none" stroke="#050505" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 64H113M104 58V64M100 64C102 70 106 74 112 77M110 64C108 70 104 74 98 77" fill="none" stroke="#050505" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
